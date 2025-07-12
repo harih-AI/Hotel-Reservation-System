@@ -1,4 +1,3 @@
-```markdown
 # 🏨 Hotel Reservation System (Console-based with SQLite)
 
 A simple, modular, and scalable Python console application for hotel room booking. Built using Object-Oriented Programming and follows SOLID design principles. Perfect for learning, interviews, and academic projects.
@@ -96,14 +95,3 @@ Designed for learning purposes, technical interviews, and academic project demos
 
 ---
 
-```
-
----
-
-Let me know if you'd like:
-- A `LICENSE` file
-- A GitHub repo structure
-- Badges for build/test/python version
-
-I can generate it instantly.
-```
